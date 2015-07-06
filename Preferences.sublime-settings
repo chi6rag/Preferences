@@ -1,0 +1,11 @@
+{
+        "color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+        "ignored_packages":
+        [
+                "Vintage"
+        ],
+        "tab_size": 2,
+        "show_full_path": true
+}
+
+
